@@ -4,7 +4,6 @@
 
 ```
 symfony new api --version="6.3.*"
-
 ```
 
 ### 2. cd api/ & install maker bundle
