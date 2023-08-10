@@ -20,7 +20,6 @@ composer install
 
 ```
 npm create vite@latest
-
 ```
 
 ### 4. cd client 
